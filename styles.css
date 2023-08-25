@@ -15,8 +15,7 @@ header {
     font-family: 'Times New Roman', 'Courier New', Courier, monospace, serif;
     margin: auto;
     width: 100%;
-    margin-top: 10px;  
-    
+    margin-top: 10px;   
 }
 
 nav {
@@ -52,9 +51,6 @@ footer {
     padding: 5px;
     text-align: center;
     color: white;
-    
-
-
 }
 
 footer a {
