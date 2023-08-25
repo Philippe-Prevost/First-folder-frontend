@@ -22,9 +22,6 @@ header {
 nav {
  background-color: white;
  padding: 10px;
- 
-
- 
  text-align: center;
 }
 
@@ -36,11 +33,8 @@ nav a{
 
 main {
     display: flex;
-    
     justify-content: center;
     align-items: center;
-
-    
 }
 
 main img{
@@ -68,11 +62,8 @@ footer a {
   padding: 20px;
   font-size: 30px;
   width: 50px;
-  
   text-decoration: none;
   color: black;
-
-  
 }
 
 
